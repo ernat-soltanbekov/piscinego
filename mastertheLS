@@ -1,0 +1,1 @@
+ls -Atup | tr '\n' ',' | sed 's/,$//'
